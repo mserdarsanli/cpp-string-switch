@@ -1,0 +1,14 @@
+String with spaces
+String	with	tabs
+Some punctuation chars: !@#$%^&*(){}[]
+Backslash \
+Quotes "'
+Control chars 	 (except newline) !
+UTF-8 stuff (emoji): 🤐 🤑 🤒 🤓 🤔 🤕 🤖 🤗
+123123132
+222222222
+qwe-qwe
+qwe_qwe
+qwe qwe
+qwe+qwe
+default_
